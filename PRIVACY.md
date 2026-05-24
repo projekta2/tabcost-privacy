@@ -2,7 +2,7 @@
 
 **Last updated:** May 2026  
 **Extension:** TabCost Pro (Chrome Extension)  
-**Developer:** Alexandre Iglesias · support@tabcost.app
+**Developer:** Alexandre Iglesias · hello@projekta2.com
 
 ---
 
@@ -96,5 +96,5 @@ If this policy changes materially, the "Last updated" date above will be updated
 ## 9. Contact
 
 Questions about privacy? Contact us at:  
-**support@tabcost.app**  
-Alexandre Iglesias · Girona, Spain
+**hello@projekta2.com**  
+Alexandre Iglesias · Girona, Spain · [github.com/projekta2](https://github.com/projekta2)
